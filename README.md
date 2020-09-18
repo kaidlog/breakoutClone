@@ -4,7 +4,7 @@
 ## Requirements:
  - node.js
  - create-react-app
- 
+![alt text](https://player.vimeo.com/video/459239175)
 
 ## Run locally
 ```bash
